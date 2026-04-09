@@ -4,7 +4,6 @@ A console application built in C# to log coding sessions.
 Users can enter start and end times, and the app calculates the duration automatically.  
 Data is stored in **SQL Server** using **Dapper** for lightweight data access.
 
-
 ---
 
 ## Features
@@ -18,8 +17,6 @@ Data is stored in **SQL Server** using **Dapper** for lightweight data access.
 ## Projects in this Solution
 - **CodingTracker.Ledana** → main application
 - **CodingTrackerTests** → unit test project
-
----
 
 ## Unit Testing Challenge
 I’ve started adding unit tests with **NUnit**.  
